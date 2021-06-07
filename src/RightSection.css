@@ -1,8 +1,14 @@
 .section__2 {
-    display: flex;
-    justify-content: space-between;
-}
-
-.h1__section2 {
-    font-size: 1rem;
+    position: absolute;
+    left: 46.05%;
+    right: 11.64%;
+    top: 5.73%;
+    bottom: 69.53%;
+    width: 578px;
+    height: 190px;
+    
+    /* Grey shades/White_2 */
+    
+    background: #F6F6F6;
+    border-radius: 11px;
 }
